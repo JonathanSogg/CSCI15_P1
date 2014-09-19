@@ -4,7 +4,7 @@ html {
 }
 
 body {
-	font: verdana, sans-serif;
+	font: Verdana, Geneva, sans-serif;
 	color: #555753;
 	margin: 0;
 	padding: 0;
@@ -27,7 +27,7 @@ h1 {
 
 h2 {
 	text-align: center;
-	font: italic normal verdana, sans-serif;
+	font: italic normal Verdana, sans-serif;
 }
 	
 img {
