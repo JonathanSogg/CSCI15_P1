@@ -1,6 +1,27 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font: georgia, sans-serif;
+	color: #555753;
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	margin-top: 0;
+	text-align: center;
+}
+
 h1 {
 	text-align:center;
    }
+
+h2 {
+	font: italic normal georgia, sans-serif;
+}
 	
 img {
   	display:block;
